@@ -1,3 +1,0 @@
-Quelqu'un avait supprimé par erreur le fichier .gitignore induisant à l'envoi du dossier idea ce qui est anormal
-Par conséquent vos modifications n'ont pas été enregistré sur le serveur.
-Afin de régler le conflit trois guériers ont resolu le probleme en recréeant le fichier .gitignore
