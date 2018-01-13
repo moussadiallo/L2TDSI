@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 moussa diallo moussa@andando.sn
 Aissatou diallo ashitadiallo1996@gmail.com		+1
 Saleck Mohamed El Bechir El Jili salek.eljili@gmail.com +0.5
@@ -79,11 +79,10 @@ makha
 khalide_kane
 Ababacar Diba
 Cheikh Mbengue
->>>>>>> 113982ae332f96d0f09c203fb7d0d6976d83831f
 Aujourd'dui on fera PHP
 ADAMA COLY
 abcdfg
 soda
 Lamine Syne
 Georges ndong
-amada serviteur
+amada serviteur saliou
